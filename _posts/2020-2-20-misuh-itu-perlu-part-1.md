@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Misuh itu perlu, Aswww \#1!
+title: Misuh itu perlu, Aswww #1!
 ---
 
 Baca sampai selesai, jancuk!!!
